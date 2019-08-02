@@ -25,8 +25,6 @@ let myChart = Highcharts.chart("container0", {
     ]
 });
 
-// ---------------------------------------
-
 let options = {
     chart: {
         renderTo: "container1",
